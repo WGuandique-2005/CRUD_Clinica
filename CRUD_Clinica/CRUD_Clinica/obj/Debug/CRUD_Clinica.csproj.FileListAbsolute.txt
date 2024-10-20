@@ -1,0 +1,13 @@
+C:\Users\MINEDUCYT\Desktop\C#\CRUD_Clinica\bin\Debug\CRUD_Clinica.exe.config
+C:\Users\MINEDUCYT\Desktop\C#\CRUD_Clinica\bin\Debug\CRUD_Clinica.exe
+C:\Users\MINEDUCYT\Desktop\C#\CRUD_Clinica\bin\Debug\CRUD_Clinica.pdb
+C:\Users\MINEDUCYT\Desktop\C#\CRUD_Clinica\obj\Debug\CRUD_Clinica.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\C#\CRUD_Clinica\obj\Debug\CRUD_Clinica.Paciente.resources
+C:\Users\MINEDUCYT\Desktop\C#\CRUD_Clinica\obj\Debug\CRUD_Clinica.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\C#\CRUD_Clinica\obj\Debug\CRUD_Clinica.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\C#\CRUD_Clinica\obj\Debug\CRUD_Clinica.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\C#\CRUD_Clinica\obj\Debug\CRUD_Clinica.exe
+C:\Users\MINEDUCYT\Desktop\C#\CRUD_Clinica\obj\Debug\CRUD_Clinica.pdb
+C:\Users\MINEDUCYT\Desktop\C#\CRUD_Clinica\obj\Debug\CRUD_Clinica.medico.resources
+C:\Users\MINEDUCYT\Desktop\C#\CRUD_Clinica\obj\Debug\CRUD_Clinica.registro.resources
+C:\Users\MINEDUCYT\Desktop\C#\CRUD_Clinica\obj\Debug\CRUD_Clinica.menu.resources
